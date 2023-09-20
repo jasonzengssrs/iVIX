@@ -7,3 +7,4 @@
 
 [CBOE,vix白皮书](http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/the-vix-index-calculation)
 
+![image](https://github.com/jasonzengssrs/iVIX/blob/master/iVIX.png)
